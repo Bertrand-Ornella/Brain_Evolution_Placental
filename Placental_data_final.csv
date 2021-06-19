@@ -1,0 +1,125 @@
+Species,Abbreviations,Period,Group,FAD_Ma,LAD_Ma,Body_mass_mg,Body_mass_g,Brain_volume_cm3,Brain_volume_mm3,Olfactory_bulbs_mm3,Petrosal_lobules_mm3,Neocortex_surface_mm2,Brain_surface_mm2,OB_percentage,PL_percentage,Neorcortex_surface_percentage,Period2,Order,Collection number,Status,NALMA/SALMA/ELMA/ALMA
+Arctocyon_primaevus,Ar_pr,Paleocene,Paleocene,57.7,56,49284290,49284.29,23.8057,23805.7,1597.21,31.5,764.36,7439,6.709359523,0.132321251,10.27503697,late Paleocene,Artocyonidae,IRSNB Vert-26857-62 / UCMP 61454,segmented,Cernaysian
+Arctocyonides_arenae,Ard_ar,Paleocene,Paleocene,57.7,56,5477120,5477.12,8.3,8300,700,NA,NA,NA,8.43373494,NA,NA,late Paleocene,Artocyonidae,MHMP CR 733,literature,Cernaysian
+Loxolophus_hyattianus,Lo_hy,Paleocene,Paleocene,65.57,65.47,5995330,5995.33,NA,NA,NA,11.3451,NA,NA,NA,NA,NA,early Paleocene,Artocyonidae,AMNH FM 16343,segmented,Puercan Pu2
+Loxolophus_priscus,Lo_pr,Paleocene,Paleocene,65.27,65.22,4733550,4733.55,2.43822,2438.22,110.3944,1.06,NA,NA,4.527663623,0.043474338,NA,early Paleocene,Artocyonidae,AMNH 3108,segmented,Puercan Pu3
+Claenodon_ferox,Cl_fe,Paleocene,Paleocene,62.34,62.29,38410330,38410.33,29.1701,29170.1,2458.82,8.2,818.66,9074.5,8.429247757,0.028110977,9.021543887,early Paleocene,Artocyonidae,NMMNH P-8627,segmented,Torrejonian To3
+Baioconodon_denverensis,Ba_de,Paleocene,Paleocene,65.76,65.65,3662700,3662.7,NA,NA,NA,12.422,NA,NA,NA,NA,NA,early Paleocene,Artocyonidae,DMNH 2500,segmented,Puercan Pu1
+Chriacus_pelvidens,Ch_pe,Paleocene,Paleocene,62.7,62.63,4659820,4659.82,NA,NA,NA,7.7652,NA,NA,NA,NA,NA,early Paleocene,Artocyonidae,NMMNH P-62258,segmented,Torrejonian To2
+Chriacus_baldwini,Ch_ba,Paleocene,Paleocene,62.7,62.6,1796890,1796.89,2.6998,2699.8,187.003,6.94,NA,NA,6.926550115,0.257056078,NA,early Paleocene,Artocyonidae,MCZ 20676,segmented,Torrejonian To2
+Pantolambda_bathmodon,Pa_ba,Paleocene,Paleocene,62.52,62.22,41919200,41919.2,19,19000,1000,1.0484,NA,NA,5.263157895,0.005517895,NA,early Paleocene,Pantodonta,NMMNH 14538 / AMNH 3957,literature/segmented,Torrejonian To3
+Alcidedorbignya_inopinata,Al_in,Paleocene,Paleocene,64.8,64,861480,861.48,2.20322,2203.22,187.06,NA,NA,NA,8.49030056,NA,NA,early Paleocene,Pantodonta,MHNC 8372,literature,Tiupampan = Torrejonian To1
+Titanoides_primaevus,Ti_pr,Paleocene,Paleocene,62.2,57.4,664060710,664060.71,43.6485,43648.5,2860.6,NA,NA,NA,6.553718914,NA,14.05,late Paleocene,Pantodonta,USNM 20029,literature/segmented,Tiffanian
+Leptolambda_schmidti,Le_sc,Paleocene,Paleocene,57.4,56,256330010,256330.01,69,69000,7300,NA,NA,NA,10.57971014,NA,NA,late Paleocene,Pantodonta,FMNH P26075,literature,Clarforkian
+Coryphodon_hamatus,Co_ha,Eocene,Eocene stem groups,55,54.5,425568670,425568.67,93,93000,6000,NA,NA,NA,6.451612903,NA,NA,early Eocene,Pantodonta,YPM 11330,literature,Wasatchian (Wa3)
+Coryphodon_elephantopus,Co_el,Eocene,Eocene stem groups,54.5,53,463836680,463836.68,90,90000,4000,NA,NA,NA,4.444444444,NA,NA,early Eocene,Pantodonta,USNM 111,literature,Wasatchian (Wa4-Wa6)
+Ectoconus_ditrigonus,Ec_di,Paleocene,Paleocene,65.67,65.58,105644290,105644.29,16.2362,16236.2,1655.46,0.8,482.317,5926,10.196105,0.004927261,8.138997638,early Paleocene,Periptychidae,EPV 134084,segmented,Puercan Pu2
+Conacodon_entoconus,Co_en,Paleocene,Paleocene,65.57,65.47,2871160,2871.16,NA,NA,NA,0.5158,NA,NA,NA,NA,NA,early Paleocene,Periptychidae,NMMNH P-47002,segmented,Puercan
+Anisonchus_sectorus,An_se,Paleocene,Paleocene,62.7,62.63,1788680,1788.68,3.2982,3298.2,554.314,23.74,NA,NA,16.80656115,0.71978655,NA,early Paleocene,Periptychidae,NMMNH P-19335,segmented,Torrejonian To2
+Goniacodon_levisanus,Go_sp,Paleocene,Paleocene,63.48,63.44,11375050,11375.05,NA,NA,NA,1.58658,NA,NA,NA,NA,NA,early Paleocene,Triisodontidae,NMMNH P-16377,segmented,Torrejonian To2
+Onychodectes_tisonensis,On_ti,Paleocene,Paleocene,65.27,65.22,5033100,5033.1,4.828130351,4828.130351,452.043,2.73785,NA,NA,9.362692536,0.056706215,NA,early Paleocene,Taeniodonta,AMNH 785,segmented,Puercan Pu3
+Ectoganus_copei,Ec_co,Eocene,Eocene stem groups,55,53.3,53394970,53394.97,38.9506,38950.6,4335.68,NA,692.47,8864.3,11.13122776,NA,7.811897161,early Eocene,Taeniodonta,USNM 12714,segmented,Wasatchian Wa3-Wa5
+Acmeodon_secans,Ac_se,Paleocene,Paleocene,62.7,62.63,491860,491.86,1.63977,1639.77,227.862,54.6758,186.665,1415.05,13.89597322,3.334357867,13.19140666,early Paleocene,Cimolestidae,KU 7912,segmented,Torrejonian To2
+Hyopsodus_paulus,Hy_pa,Eocene,Eocene stem groups,49.25,48.6,1067750,1067.75,3.41861,3418.61,282.813,7.15,240.243,1775.62,8.272748281,0.209149333,13.5300909,middle Eocene,Euungulata,USNM 17980,segmented,Bridgerian Br2
+Hyopsodus_lepidus,Hy_le,Eocene,Eocene stem groups,52.1,47.9,457000,457,2.79,2790,240,6.60377,NA,1610.64,8.602150538,0.236694265,NA,middle Eocene,Euungulata,AMNH FM 143783,literature,Bridgerian
+Hyopsodus_miticulus,Hy_mi,Eocene,Eocene stem groups,54,52.1,630000,630,3.2,3200,140,NA,NA,NA,4.375,NA,NA,early Eocene,Euungulata,USNM 23745,literature,Wasatchian Wa5-Wa7
+Tetraclaenodon_puercensis,Te_pu,Paleocene,Paleocene,62.34,62.29,10070690,10070.69,NA,NA,NA,4.8784,NA,NA,NA,NA,NA,early Paleocene,Phenacodontidae (Perrisodactyla-Condylarth),NMMNH P-69914,segmented,Torrejonian To3
+Tetraclaenodon_pliciferus,Te_pl,Paleocene,Paleocene,63.44,63.42,5432670,5432.67,5.22213,5222.13,716.187,NA,NA,NA,13.71446134,NA,NA,early Paleocene,Phenacodontidae (Perrisodactyla-Condylarth),NMMNH P-20949,segmented,Torrejonian To3
+Mioclaenus_turgidus,Mi_tu,Paleocene,Paleocene,62.97,62.91,4699500,4699.5,NA,NA,NA,6.769,NA,NA,NA,NA,NA,early Paleocene,Condylarth,KU 7828,segmented,Torrejonian To2
+Pleuraspidotherium_aumonieri,Pl_au,Paleocene,Paleocene,57.7,56,5207980,5207.98,6,6000,400,31.9216,NA,NA,6.666666667,0.532026667,NA,late Paleocene,Perrisodactyla-Condylarth,UCMP 61488/MHNP CR 252,literature/segmented,Cernaysian
+Orthaspidotherium_edwardsi,Or_ed,Paleocene,Paleocene,57.7,56,1324600,1324.6,NA,NA,NA,36.8643,NA,NA,NA,NA,NA,late Paleocene,Perrisodactyla-Condylarth,IRSNB M1940,segmented,Cernaysian
+Xenicohippus_sp.,Xe_sp,Eocene,Eocene crown groups,55.5,52.1,16000000,16000,29.4,29400,2690,NA,NA,NA,9.149659864,NA,NA,early Eocene,Perissodactyla,AMNH 55267,literature,Wasatchian Wa2-Wa7
+Xenicohippus_osborni,Xe_os,Eocene,Eocene crown groups,56,52.1,12306770,12306.77,25,25000,NA,NA,NA,NA,NA,NA,NA,early Eocene,Perissodactyla,AMNH 55268,literature,Wasatchian
+Heptodon_posticus,He_po,Eocene,Eocene crown groups,53,52.1,26545630,26545.63,44.5,44500,NA,NA,NA,NA,NA,NA,NA,early Eocene,Perissodactyla,MCZ 17670,literature,late Wasatchian Wa7
+Amynodon_advenus,Am_ad,Eocene,Eocene crown groups,47.9,39.8,358835080,358835.08,235,235000,NA,NA,NA,NA,NA,NA,NA,late Eocene,Perissodactyla,YPM 11453,literature,Uintan
+Palaeosyops_robustus,Pa_ro,Eocene,Eocene crown groups,48.6,47.9,427080900,427080.9,220,220000,NA,NA,NA,NA,NA,NA,NA,middle Eocene,Perissodactyla,AMNH 1544,literature,Bridgerian Br3
+Mesatirhinus_junius,Me_ju,Eocene,Eocene crown groups,52.1,47.9,399015660,399015.66,187.5,187500,NA,NA,NA,NA,NA,NA,NA,middle Eocene,Perissodactyla,PM VPPU 010041/AM 39558,literature,Bridgerian
+Hyrachyus_modestus,Hy_mo,Eocene,Eocene crown groups,49.25,48.6,62220394.46,62220.39446,76.5225,76522.5,6040.05,NA,3081.47,15431.4,7.893168676,NA,19.96882979,middle Eocene,Perissodactyla,AMNH FM 12664,segmented,Bridgerian Br2
+Meniscotherium_chamense,Me_ch,Eocene,Eocene stem groups,53,50.05,6690110,6690.11,11.0347,11034.7,535.529,4.8,637.69,4364.99,4.853136016,0.043499144,14.60919727,early Eocene,Perissodactyla (Phenacodontidae),USNM 22673,segmented,late Wasatchian Wa7-Br1a
+Phenacodus_wortmani,Ph_wo,Eocene,Eocene stem groups,55,53.3,10971230,10971.23,16.1928,16192.8,1203.014,NA,NA,NA,7.429314263,NA,NA,early Eocene,Perissodactyla (Phenacodontidae),AMNH FM 4378,segmented,Wasatchian Wa3-Wa5
+Phenacodus_primaevus,Ph_pr,Eocene,Eocene stem groups,55,53.3,42427080,42427.08,31,31000,2800,NA,NA,NA,9.032258065,NA,NA,early Eocene,Perissodactyla (Phenacodontidae),AMNH 4367,literature,Wasatchian Wa3-Wa5
+Homacodon_vagans,Ho_va,Eocene,Eocene crown groups,48.6,47.9,1220910,1220.91,9.5,9500,NA,NA,NA,NA,NA,NA,NA,middle Eocene,Artiodactyla,AMNH 12695,literature,Bridgerian Br3
+Diacodexis_ilicis,Di_il,Eocene,Eocene crown groups,56,54.5,829500,829.5,4.7,4700,320,36.6053,NA,1926.37,6.808510638,0.77883617,NA,early Eocene,Artiodactyla,AMNH VP 16141,literature,Wasatchian Wa0-Wa3
+Bathygenys_reevesi,Ba_re,Eocene,Eocene crown groups,37.8,36.2,2389970,2389.97,14.36,14360,455,NA,NA,NA,3.168523677,NA,NA,late Eocene,Artiodactyla,TMM 40209-198,literature,early Chadronian Ch1
+Protylopus_sp.,Pr_sp,Eocene,Eocene crown groups,47.9,37.8,2600000,2600,13,13000,NA,NA,NA,NA,NA,NA,NA,middle Eocene,Artiodactyla,FM P 12203,literature,Uintan-Duchesnean
+Eotylopus_sp.,Eo_sp,Eocene,Eocene crown groups,39.8,33.9,10000000,10000,22,22000,NA,NA,NA,NA,NA,NA,NA,middle to late Eocene,Artiodactyla,UT 40504-1,literature,Duchesnean-Chadronian
+Diplobune_sp.,Di_sp,Eocene,Eocene crown groups,37,30,40000000,40000,53,53000,NA,NA,NA,NA,NA,NA,NA,late Eocene to early Oligocene,Artiodactyla,MH (1092) - Paris,literature,Headonian and Suevian (MP18-MP23)
+Dacrytherium_sp.,Da_sp,Eocene,Eocene crown groups,40.1,35,12000000,12000,35,35000,NA,NA,NA,NA,NA,NA,NA,late middle to late Eocene,Artiodactyla,MH (1091) - Paris,literature,Robiacian and Headonian (MP16-MP18)
+Anoplotherium_sp.,An_sp,Eocene,Eocene crown groups,37,33.75,82000000,82000,80,80000,NA,NA,NA,NA,NA,NA,NA,late Eocene,Artiodactyla,MH (1092) - Paris,literature,Headonian (MP18-MP20)
+Protoreodon_petersoni,Pr_pe,Eocene,Eocene crown groups,42.8,39.8,7549060,7549.06,24,24000,NA,NA,NA,NA,NA,NA,NA,late Eocene,Artiodactyla,UT 31281-4,literature,Uintan Ui3
+Robiacina_lavergnensis,Ro_la,Eocene,Eocene crown groups,37.8,33.9,397000,397,2.5,2500,90,NA,NA,NA,3.6,NA,NA,late Eocene,Artiodactyla,UM2 ACQ 69,literature,lower Ludian (used Priabonian)
+Dichobune_leporina,Di_le,Eocene,Eocene crown groups,37.8,33.9,4556000,4556,15.844,15844,1218,NA,NA,NA,7.687452663,NA,NA,late Eocene,Artiodactyla,MNHN Qu 16586,literature,?upper Ludian (used Priabonian)
+Leptotragulus_sp.,Le_sp,Eocene,Eocene crown groups,47.9,35.2,8817500,8817.5,21.417,21417,960,NA,NA,NA,4.482420507,NA,NA,middle to late Eocene,Artiodactyla,AMNH 107976,literature,early Uintan (Ui1)-Ch2
+Agriochoerus_sp.,Ag_sp,Eocene,Eocene crown groups,45.3,35.2,11634000,11634,33,33000,1643,NA,NA,NA,4.978787879,NA,NA,middle Eocene,Artiodactyla,AMNH 95330,literature,late Uintan (Ui2)-Ch2
+Mouillacitherium_elegans,Mo_el,Eocene,Eocene crown groups,37.8,37.5,863500,863.5,6.96,6960,505,NA,NA,NA,7.255747126,NA,NA,late Eocene,Artiodactyla,UM2 ACQ 6625,literature,Headonian (MP17a-MP17b)
+Tapirulus_hyracinus,Ta_hy,Eocene,Eocene crown groups,37,33.9,2250000,2250,10.707,10707,800,NA,NA,NA,7.471747455,NA,NA,late Eocene,Artiodactyla,MNHN 1893-11,literature,Headonian (MP18-?)
+Cebochoerus_sp.,Ce_sp,Eocene,Eocene crown groups,43.4,35,4627500,4627.5,17.2,17200,NA,NA,NA,NA,NA,NA,NA,middle to late Eocene,Artiodactyla,NA,literature,Robiacian and Headonian (MP14-MP18)
+Oxacron_sp.,Ox_sp,Eocene,Eocene crown groups,35,33.9,576000,576,1.9,1900,NA,NA,NA,NA,NA,NA,NA,late Eocene,Artiodactyla,NA,literature,Headonian (MP19-?)
+Eoryctes_melanus,Eo_me,Eocene,Eocene stem groups,55.5,54.5,66980,66.98,0.96,960,160,NA,NA,NA,16.66666667,NA,NA,early Eocene,Palaeoryctidae ,UM 68074,literature,Wasatchian Wa2-Wa3
+Trogosus_hillsii,Tr_hi,Eocene,Eocene stem groups,52.1,47.9,86686200,86686.2,61.0212,61021.2,4428.85,NA,1313.58,12676.3,7.257887423,NA,10.36248748,middle Eocene,Tillodontia,USNM 17157,segmented,Bridgerian
+Trogosus_grangeri,Tr_gr,Eocene,Eocene stem groups,52.1,47.9,86605030,86605.03,78.59746,78597.46,9773.96,NA,NA,18170.63,12.43546547,NA,NA,middle Eocene,Tillodontia,AMNH FM 17008,segmented,Bridgerian
+Leptictis_sp.,Le_sp,Eocene,Eocene stem groups,42.8,28,742950,742.95,4.30764,4307.64,406.576,70.4,268.785,2034.85,9.438486039,1.634305559,13.20908175,middle Eocene - late Oligocene,Lepticticida,AMNH 62369,segmented,Ui3 to Ar1
+Metacheiromys_marshi,Me_ma,Eocene,Eocene stem groups,52.1,47.9,713360,713.36,6.64168,6641.68,425.832,10.23,307.182,2678.25,6.411510341,0.154027294,11.46950434,middle Eocene,Palaeanodonta (Pangolin),USNM 452349,segmented,Bridgerian
+Mesonyx_obtusidens,Me_ob,Eocene,Eocene stem groups,49.25,48.6,97372750,97372.75,80,80000,NA,NA,NA,NA,NA,NA,NA,middle Eocene,Mesonychidae,YPM 13141,literature,Bridgerian Br2
+Uintatherium_anceps,Ui_an,Eocene,Eocene stem groups,49.25,39.8,1037055170,1037055.17,300,300000,41000,NA,NA,NA,13.66666667,NA,NA,middle Eocene,Dinocerata,YPM 11036,literature,Br2-Ui3
+Tetheopsis_ingens,Te_in,Eocene,Eocene stem groups,47.9,42.8,6270204030,6270204.03,365,365000,11000,NA,NA,NA,3.01369863,NA,NA,middle Eocene,Dinocerata,YPM 11041,literature,early Uintan Ui1-Ui2
+Thinocyon_velox,Th_ve,Eocene,Eocene stem groups,52.1,47.9,964130,964.13,6,6000,NA,NA,NA,NA,NA,NA,NA,middle Eocene,Creodonta,AMNH 12631,literature,Bridgerian Br1-Br3
+Tritemnodon_agilis,Tr_ag,Eocene,Eocene stem groups,52.1,47.9,9003080,9003.08,26,26000,NA,NA,NA,NA,NA,NA,NA,middle Eocene,Creodonta,YPM 10073,literature,Bridgerian
+Cynohyaenodon_cayluxi,Cy_ca,Eocene,Eocene stem groups,40.1,37,1358890,1358.89,8.3,8300,500,NA,NA,NA,6.024096386,NA,NA,middle to late Eocene,Creodonta,MH (809) - Jerison 1973,literature,MP 16-17b
+Pterodon_dasyuroides,Pt_da,Eocene,Eocene stem groups,37,33.75,84491330,84491.33,60,60000,NA,NA,NA,NA,NA,NA,NA,late Eocene,Creodonta,MH (809) - Jerison 1973,literature,Headonian (MP18-MP20)
+Hyaenodon_horridus,Hy_ho,Eocene,Eocene stem groups,39.8,29.7,34357400,34357.4,85,85000,7000,NA,NA,NA,8.235294118,NA,NA,late Eocene-early Oligocene,Creodonta,AMNH 94760; FMNH 12723; PU 10043,literature,Duchesnean-Whitneyan
+Sinopa_lania,Si_la,Eocene,Eocene stem groups,50.05,47.9,4188520,4188.52,11.6036,11603.6,501.146,38.9,893.27,4560.47,4.318883795,0.335240787,19.58723553,middle Eocene,Creodonta,AMNH 13142,segmented,late Bridgerian Br1b-Br3
+Prohesperocyon_wilsoni,Pr_wi,Eocene,Eocene crown groups,37.8,36.2,30042690,30042.69,127.632,127632,4507.67,611,6308.2,17621,3.531771029,0.47872007,35.79933034,late Eocene,Carnivora,TMM 40504-126,segmented,Chadronian Ch1
+Dinictis_felina,Di_fe,Eocene,Eocene crown groups,35.2,33.9,16140020,16140.02,77.0952,77095.2,2683,NA,5045.6,12460.7,3.480112899,NA,40.49210718,late Eocene,Carnivora,AMNH 455,segmented,Chadronian Ch3
+Miacis_sylvestris,Mi_sy,Eocene,Eocene stem groups,49.25,47.9,1156670,1156.67,8.44566,8445.66,321.04,75.76,951.488,4202.62,3.801242295,0.89702877,22.64035292,middle Eocene,Carnivora,AMNH 129284,segmented,Bridgerian Br2-Br3
+Oodectes_herpestoides,Oo_he,Eocene,Eocene stem groups,49.25,48.6,1172230,1172.23,7.6444,7644.4,378.898,20.27,708.3,2845.9,4.956543352,0.265161425,24.888436,middle Eocene,Carnivora,AMNH 140008,segmented,Bridgerian Br2
+Viverravus_minutus,Vi_mi,Eocene,Eocene stem groups,49.25,48.6,313200,313.2,2.02899,2028.99,169.298,17.79,219.862,1374.83,8.343954381,0.876790916,15.99194082,middle Eocene,Carnivora,AMNH 12621,segmented,Bridgerian Br2
+Vulpavus_profectus,Vu_pr,Eocene,Eocene stem groups,49.25,48.6,2573270,2573.27,12.066,12066,908.196,1.23295962,850.02,3987,7.526902039,0.010218462,21.31978932,middle Eocene,Carnivora,AMNH 12626,segmented,Bridgerian Br2
+Vulpavus_ovatus,Vu_ov,Eocene,Eocene stem groups,52.1,49.25,3787570,3787.57,12.358,12358,1057.11,12.8545,1069.42,4196.5,8.554054054,0.10401764,25.4836173,middle Eocene,Carnivora,AMNH 11498,segmented,Bridgerian Br1
+Labidolemur_kayi,La_ka,Paleocene,Paleocene,57,54,74000,74,0.524127,524.127,68.22,NA,NA,NA,13.01592935,NA,NA,late Paleocene-early Eocene,Apatemyidae,USNM 530221; USNM 530208,literature,Cf2-early Wasatchian (Wa4)
+Paramys_copei,Pa_co,Eocene,Eocene crown groups,53,52.1,1029890,1029.89,7.52665,7526.65,455.45,89.99,577.77,3378.48,6.051164861,1.195618237,17.10147759,early Eocene,Rodentia,AMNH 4756,literature,Wasatchian Wa7
+Paramys_delicatus,Pa_de,Eocene,Eocene crown groups,49.25,48.6,2154490,2154.49,12.5654,12565.4,595.51,129.3,790.48,4864.86,4.739284066,1.029016187,16.2487718,middle Eocene,Rodentia,AMNH 12506,literature,Bridgerian Br2
+Pseudotomus_horribilis,Ps_ho,Eocene,Eocene crown groups,49.25,48.6,4850480,4850.48,15.1882,15188.2,808.92,173.8,1103.54,5842.8,5.325976745,1.144309398,18.88717738,middle Eocene,Rodentia,USNM 17159,literature,Bridgerian Br2
+Pseudotomus_oweni,Ps_ow,Eocene,Eocene crown groups,48.6,47.9,3665510,3665.51,12.063,12063,717.06,74.8,1087.42,4744.38,5.944292465,0.620077924,22.92017081,middle Eocene,Rodentia,USNM 17161,literature,Bridgerian Br3
+Pseudotomus_petersoni,Ps_pe,Eocene,Eocene crown groups,45.3,42.8,4386240,4386.24,17.0149,17014.9,704.34,65.8,1337.58,5843.7,4.139548278,0.386719875,22.88926536,middle Eocene,Rodentia,AMNH 2018,literature,Uintan Ui2
+Pseudotomus_hians,Ps_hi,Eocene,Eocene crown groups,49.25,48.6,2306480,2306.48,13.6791,13679.1,743.2,142.4,1123.12,4878.63,5.433105979,1.04100416,23.02121702,middle Eocene,Rodentia,AMNH 5025,literature,Bridgerian Br2
+Reithroparamys_delicatissimus,Re_de,Eocene,Eocene crown groups,49.25,48.6,749280,749.28,6.43398,6433.98,206.31,148.86,550.88,3178.9,3.206568873,2.313653446,17.32926484,middle Eocene,Rodentia,AMNH 12561,literature,Bridgerian Br2
+Rapamys_atramontis,Ra_at,Eocene,Eocene crown groups,39.8,37.8,1079530,1079.53,6.55822,6558.22,225.338,115.555,763.645,3321.41,3.461386261,1.784192176,22.99159092,middle Eocene,Rodentia,AMNH 128706; AMNH 128704,literature,Duchesnean Du
+Plesiadapis_cookei,Pl_co,Paleocene,Paleocene,57,56.5,3386670,3386.67,5,5000,390,NA,NA,NA,7.8,NA,NA,late Paleocene,Plesiadapiforms,UM 87990,literature,middle Clarkforkian Cf2
+Plesiadapis_tricuspidens,Pl_tr,Paleocene,Paleocene,57.7,56,2925470,2925.47,5.21,5210,136,NA,590,2960,2.610364683,NA,19.93243243,late Paleocene,Plesiadapiforms,MNHN CR 125,literature,Cernaysian
+Microsyops_annectens,Mi_an,Eocene,Eocene stem groups,48.6,47.9,1432450,1432.45,5.9,5900,300.55,NA,632.56,2956.19,5.094067797,NA,21.39781273,middle Eocene,Plesiadapiforms,UW 12362,literature,Bridgerian Br3
+Ignacius_graybullianus,Ig_gr,Eocene,Eocene stem groups,55.75,55.5,270560,270.56,1.995,1995,109.707,NA,359.84,1768.785,5.496792877,NA,20.34390839,early Eocene,Plesiadapiforms,USNM 421608; UF 26000,literature,Wasatchian Wa1
+Rooneyia_viejaensis,Ro_vi,Eocene,Eocene crown groups,39.8,37.8,341310,341.31,7.23,7230,68,60.5297,1054.55,2409.33,0.940525588,0.837201936,43.76942968,middle Eocene,Primates,TMM 40688-7,literature/segmented,Duchesnean Du
+Adapis_parisiensis,Ad_pa,Eocene,Eocene crown groups,37.8,33.9,1870450,1870.45,8.81,8810,212,44.9179,980.22,3168.94,2.406356413,0.509851305,30.93210979,late Eocene,Primates,NHM M 1345,literature/segmented,Headonian = Chadronian
+Notharctus_tenebrosus,No_te,Eocene,Eocene crown groups,49.25,48.6,2100070,2100.07,7.623333333,7623.333333,149,91.07945,917.83,3035.943333,1.946974682,1.189406015,30.23211896,middle Eocene,Primates,AMNH 127167; USNM V 23277; USNM V 23278,literature/segmented,Bridgerian Br2
+Smilodectes_gracilis,Sm_gr,Eocene,Eocene crown groups,49.25,47.9,1238640,1238.64,8.37,8370,137.55,118.02,1062.7875,3387.77,1.628570826,1.436331374,31.37130029,middle Eocene,Primates,USNM V 17994; USNM V 17996; USNM V 21815; UM 32773 (=MPM 2612),literature/segmented,Bridgerian Br2-Br3
+Microchoerus_erinaceus,Mi_er,Eocene,Eocene crown groups,37.5,37,493330,493.33,4.26,4260,41,48.2543,771.76,1866.67,0.962441315,1.132730047,41.34421189,late Eocene,Primates,UM-PRR1771,literature/segmented,MP 17b
+Necrolemur_antiquus,Ne_an,Eocene,Eocene crown groups,37.8,33.75,120530,120.53,2.355,2355,45.6,25.5936,NA,1266,1.936305732,1.08677707,NA,middle to late Eocene,Primates,MaPhQ 289,literature/segmented,MP17 - MP20
+Moeritherium_lyonsi,Mo_ly,Eocene,Eocene crown groups,37.8,33.9,235000000,235000,240,240000,NA,NA,NA,NA,NA,NA,NA,middle to late Eocene,Afrotheria,BM 9176,literature,Priabonian
+Prorastomus_sirenoides,Pr_si,Eocene,Eocene crown groups,56,47.8,98155500,98155.5,86.865,86865,3075,NA,NA,NA,3.539975825,NA,NA,late Early Eocene,Afrotheria,BMNH 44897,literature, Ypresian
+Seggeurius_amourensis,Se_am,Eocene,Eocene crown groups,56,47.8,2932000,2932,4.942,4942,NA,NA,NA,NA,NA,NA,NA,early Eocene,Afrotheria,UOK-210,literature, Ypresian
+Basilosaurus_cetoides,Ba_ce,Eocene,Eocene crown groups,37.8,33.9,6480000000,6480000,2240,2240000,NA,NA,NA,NA,NA,NA,NA,late Eocene,Archaeoceti (Basilosauridae),Gingerich (1998),literature,Priabonian
+Basilosaurus_isis,Ba_is,Eocene,Eocene crown groups,41.2,33.9,6480000000,6480000,2800,2800000,NA,NA,NA,NA,NA,NA,NA,middle to late Eocene,Archaeoceti (Basilosauridae),"UM 94800, 94801, 97503",literature,Bartonian-Priabonian
+Dorudon_atrox,Do_at,Eocene,Eocene crown groups,41.2,33.9,1126000000,1126000,1173,1173000,NA,NA,NA,NA,NA,NA,NA,middle to late Eocene,Archaeoceti (Basilosauridae),"UM 101215, 101222",literature,Bartonian-Priabonian
+Saghacetus_osiris,Sa_os,Eocene,Eocene crown groups,37.8,33.9,350000000,350000,485,485000,NA,NA,NA,NA,NA,NA,NA,late Eocene,Archaeoceti (Basilosauridae),UM 97550; BMNH 10228,literature,Priabonian
+Zygorhiza_kochii,Zy_ko,Eocene,Eocene crown groups,35.4,33.6,998000000,998000,1189,1189000,NA,NA,NA,NA,NA,NA,NA,late Eocene,Archaeoceti (Basilosauridae),PM-459,literature,in Priabonian
+Rodhocetus_kasrani,Ro_ka,Eocene,Eocene crown groups,47.8,41.2,590000000,590000,290,290000,NA,NA,NA,NA,NA,NA,NA,middle Eocene,Archaeoceti (Protocetidae),"GSP-UM 1853, 3012",literature,Lutetian
+Dalanistes_ahmedi,Da_ah,Eocene,Eocene crown groups,47.8,41.2,750000000,750000,400,400000,NA,NA,NA,NA,NA,NA,NA,middle Eocene,Archaeoceti (Remingtonocetidae),"GSP-UM 3099, 3106, 3165",literature,Lutetian
+Notostylops_murinus,No_mu,Eocene,Eocene stem groups,41.5,38.5,8891970,8891.97,17,17000,NA,NA,NA,NA,NA,NA,NA,late Eocene,Notoungulata,MNBA 10506,literature,Barrancan
+Oldfieldthomasia_debilitata,Ol_de,Eocene,Eocene stem groups,41.5,38.5,1238000,1238,13,13000,NA,NA,NA,NA,NA,NA,NA,late Eocene,Notoungulata,AMNH 28780,literature,Barrancan
+Rhyphodon_lankesteri,Rh_la,Eocene,Eocene stem groups,34.3,33.5,70000000,70000,43,43000,NA,NA,NA,NA,NA,NA,NA,late Eocene,Notoungulata,AMNH 29414,literature,Mustersan
+Palaeophyllophora_oltina,Pa_ol,Eocene,Eocene crown groups,37,35,36061.5,36.0615,0.5259,525.9,15.5,11.9,NA,NA,2.947328389,2.262787602,NA,late Eocene,Chiroptera,NMBS QP784,literature,MP 18
+Palaeophyllophora_quercyi,Pa_qu,Eocene,Eocene crown groups,40.1,33.9,23639,23.639,0.3646,364.6,11.7,6.5,NA,NA,3.20899616,1.782775645,NA,late Eocene,Chiroptera,UM ACQ 6627,literature,MP 16 - MP 19
+Ptilodus_montanus,Pt_mo,Paleocene,Paleocene,63.5,62.5,215940,215.94,1.48,1480,160,NA,NA,NA,10.81081081,NA,NA,early Paleocene,Multituberculates,AMNH 35490; AMNH 35491; USNM 6076; USNM 9710,literature,Torrejonian To2
+Kryptobaatar_dashzevegi,Kr_da,Mesozoic,Mesozoic,76.4,72.1,45820,45.82,0.343,343,20.044,13.844,NA,NA,5.843731778,4.036151603,NA,late Cretaceous,Multituberculates,PSS-MAE 101,literature,late Campanian
+Litovoi_tholocephalos,Li_th,Mesozoic,Mesozoic,72.1,66,248280,248.28,0.767,767,111.2,43.58,NA,NA,14.49804433,5.681877445,NA,Late Cretaceous,Multituberculates,LPB (FGGUB) M.1700,literature,Maastrichtian
+Chulsanbaatar_vulgaris,Ch_vu,Mesozoic,Mesozoic,83.6,80.6,15940,15.94,0.22,220,NA,NA,NA,NA,NA,NA,NA,late Cretaceous,Multituberculates,ZPAL MgM-I/88,literature,early Campanian
+Kennalestes_gobiensis,Ke_go,Mesozoic,Mesozoic,76.4,72.1,47890,47.89,0.299,299,30,NA,NA,NA,10.03344482,NA,NA,late Cretaceous,Asioryctitheria,ZPAL MgM-I/2 and ZPAL MgM-I/3,literature,late Campanian
+Asioryctes_nemegetensis,As_ne,Mesozoic,Mesozoic,83.6,80.6,53760,53.76,0.5,500,47,NA,NA,NA,9.4,NA,NA,late Cretaceous,Asioryctitheria,ZPAL MgM-I/56,literature,early Campanian
+Zalambdalestes_lechei,Za_le,Mesozoic,Mesozoic,76.4,72.1,230730,230.73,1.02,1020,86,NA,NA,NA,8.431372549,NA,NA,late Cretaceous,Zalambdalestidae,ZPAL MgM-I/14 and ZPAL MgM-I/16,literature,late Campanian
+Pucadelphys_andinus,Pu_an,Paleocene,Paleocene,64.8,64,64250,64.25,0.311506,311.506,36.41,2.971,NA,NA,11.68837839,0.9537537,NA,early Paleocene,Stem marsupial,MHNC 8266,literature,Tiupampan = Torrejonian To1
+Vincelestes_neuquenianus,Vi_ne,Mesozoic,Mesozoic,130.8,123,628160,628.16,2.371,2371,256.238,5.365,NA,NA,10.80716997,0.226275833,NA,early Cretaceous,Cladotheria,MACN-N 04,literature,Barremian to Early Aptian
+Vintana_sertichi,Vi_se,Mesozoic,Mesozoic,72.1,66,6793490,6793.49,18.2975,18297.5,2656.6,NA,NA,NA,14.51892335,NA,NA,late Cretaceous,Allotheria,UA 9972,literature,Maastrichtian
+Triconodon_mordax,Tr_mo,Mesozoic,Mesozoic,163.5,157.3,143300,143.3,0.82,820,90,NA,NA,NA,10.97560976,NA,NA,late Jurassic,Mammalia,BM 47763,literature,Purbekian = ?Oxfordian
+Hadrocodium_wui,Ha_wu,Mesozoic,Mesozoic,199.3,190.8,2370,2.37,0.04515,45.15,6.406,0.127,NA,NA,14.18826135,0.281284607,NA,early Jurassic,Mammaliaformes,IVPP 8275,literature,Sinemurian
+Morganucodon_sp.,Mo_sp,Mesozoic,Mesozoic,199.3,190.8,55270,55.27,0.325,325,NA,NA,NA,NA,NA,NA,NA,early Jurassic,Mammaliaformes,IVPP 8685,literature,Sinemurian
