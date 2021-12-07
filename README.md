@@ -18,4 +18,7 @@ Bayestrait
 Because 3), 4), 5) are time consumming, we provide the resulted files to reproduce the 
 analyses using topology 1 (unconstraint)
 
+For the sensitivity analyses for body mass reconstructions use
+the csv file named "Placental_data_final_tests_BM" and the scripts 3) and 4) 
+
 Contact for more information: ornella.bertrand@ed.ac.uk
